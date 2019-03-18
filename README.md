@@ -1,5 +1,4 @@
-# Jakolaatikko
-Kaikenlaista tarpeellista
+# TimeshiftFI
 
 Pakattu kansio sisältää kaksi tiedostoa.
 
