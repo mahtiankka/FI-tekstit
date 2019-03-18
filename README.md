@@ -1,5 +1,5 @@
-# Jakolaatikko
-Kaikenlaista tarpeellista
+# TimeshiftFI
+Käännös valmiina käyttöönne, olkaa hyvä.
 
 Pakattu kansio sisältää kaksi tiedostoa.
 
