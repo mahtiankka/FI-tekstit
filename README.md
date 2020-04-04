@@ -1,13 +1,19 @@
-# TimeshiftFI
-Käännös valmiina käyttöönne, olkaa hyvä.
+# FI-tekstit
 
-Pakattu kansio sisältää kaksi tiedostoa.
+Suomenkieliset käännökset moneen ohjelmaan.
 
-Valmiin (timeshift.po) suomikäännöksen Timeshift v18.9.1 ohjelmasta. Voit editoida ja muuttaa tiedostoa/käännöstä poedit ohjelmalla. 
+Tässä vaiheessa vielä aloitusvaiheessa. Pääasiallinen tarkoitus on jakaa ja varastoida kielipaketit täällä.
 
-Valmis (timeshift.mo) muotoon käännetty Timeshift -kielipaketti, jonka kopioidaan kohteeseen;
-/usr/share/locale/fi/LC_MESSAGES/timeshift.mo
+Jos olet tehnyt käännöksen ja haluat jakaa sen niin lähetä se tänne. Tarkemmat kuvaukset ja malli tarkentuu alle myöhemmin.
 
-Käynnistä Timeshift ja ympäristö on suomenkielinen.
 
-Testattu tässä vaiheessa Linux Mint 19.1 Cinnamon
+Vielä vedos / Kuvauksessa tulee olla:
+
+Käännetty tiedosto esimerkiksi ohjelmannimi.po
+Tekstitiedosto README.md jossa mainitaan
+- ohjelman täydellinen nimi
+- ohjelman sen hetkinen versio
+- Linkki mistä ohjelman saa
+- Lisenssi, siis mitä tekijänoikeutta ohjelma noudattaa.
+
+

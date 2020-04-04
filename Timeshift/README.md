@@ -11,3 +11,5 @@ Valmis (timeshift.mo) muotoon käännetty Timeshift -kielipaketti, jonka kopioid
 Käynnistä Timeshift ja ympäristö on suomenkielinen.
 
 Testattu tässä vaiheessa Linux Mint 19.1 Cinnamon
+Valmistunut 19.3.2019
+
