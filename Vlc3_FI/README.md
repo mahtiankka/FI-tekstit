@@ -22,3 +22,6 @@ https://www.videolan.org/
 Lisenssi:
 GNU GENERAL PUBLIC LICENSE Version 2
 
+![vlc1](https://user-images.githubusercontent.com/48694735/110039056-565dbb00-7d49-11eb-80f9-f70102856476.png)
+![vlc2](https://user-images.githubusercontent.com/48694735/110039059-56f65180-7d49-11eb-9474-7125f815c792.png)
+![vlc3](https://user-images.githubusercontent.com/48694735/110039060-578ee800-7d49-11eb-9c74-2957792c668b.png)
