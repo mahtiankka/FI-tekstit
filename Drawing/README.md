@@ -1,7 +1,7 @@
 # Drawing
 
 
-Linux Mint 21 käyttää piito-ohjelmassa drawing (piirtäminen) versiota 0.8.5 kuten debian 11 ja Ubuntu Jammy.
+Linux Mint 21 käyttää piirto-ohjelmaa drawing (piirtäminen) versiota 0.8.5 kuten debian 11 ja Ubuntu Jammy.
 Kielipaketti suomeksi oli 65% valmis, joten tein sen kokonaan uudelleen.
 
 Tämä kansio sisältää kaksi tiedostoa.
