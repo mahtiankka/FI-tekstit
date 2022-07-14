@@ -26,5 +26,4 @@ GNU GPL Version 3
 
 ![new1](https://user-images.githubusercontent.com/48694735/179074529-66392551-7784-489a-a2eb-17a16d46d978.jpg)
 ![new2](https://user-images.githubusercontent.com/48694735/179074530-f4c591e4-29da-4bb1-ab95-8fcc9c285bbc.jpg)
-![old1](https://user-images.githubusercontent.com/48694735/179074534-289f0ecb-8a86-48c1-a2a5-9ff6dcd38bfe.jpg)
-![old2](https://user-images.githubusercontent.com/48694735/179074536-ea573ca7-7721-435a-9136-fa647f3e0820.jpg)
+
