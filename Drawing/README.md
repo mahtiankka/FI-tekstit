@@ -13,10 +13,10 @@ Valmis (drawing.mo) muotoon käännetty kielipaketti, jonka kopioidaan kohteesee
 
 Käynnistä drawing ja ympäristö on suomenkielinen.
 
-Huomaa valmistajan uusin versio 1.0.1 flatpak ei sisällä uutta käännöstä. Tarkoitus kääntää tämäkin.
-
 Toimii täydellisesti jos versiosi ohjelmasta on 0.8.5
 Testattu Mint 21 Cinnamon beta 14.7.2022
+
+Huomaa valmistajan uusin versio 1.0.1 flatpak ei sisällä uutta käännöstä. Löydät sen vaikka heti Drawing1_0_1 kansiosta.
 
 Valmistajan kotisivu:
 https://maoschanz.github.io/drawing
