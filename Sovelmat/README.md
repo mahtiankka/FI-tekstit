@@ -13,3 +13,4 @@ Tehty! Nyt kun otat paneelisovelmia käyttöön niin ne löytävät suomennoksen
 Lisään tiedostoja sitä mukaan kun uusia tulee.
 
 
+![Paneeli](https://user-images.githubusercontent.com/48694735/205299984-9fb7ed27-04f4-46a7-a1ae-af47eb7ba5c4.png)
