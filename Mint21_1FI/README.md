@@ -22,3 +22,7 @@ Kyseiset kielipaketit parantaa käyttökokemusta uudessa Linux Mint 21.1 Cinnamo
 
 
 
+![Nemo](https://user-images.githubusercontent.com/48694735/210540776-d6e52bfa-128e-432a-ad86-30609d3d5ed6.png)
+![cinnamon](https://user-images.githubusercontent.com/48694735/210540802-1c8a44c3-8ca6-448e-a46e-f81e217bfd0e.png)
+![drawing](https://user-images.githubusercontent.com/48694735/210540822-fc4d6131-9e57-4740-9d4d-7949b7e2d644.png)
+![simple-scan](https://user-images.githubusercontent.com/48694735/210540833-6482667a-a439-4817-858a-a5b4beec42b2.png)
