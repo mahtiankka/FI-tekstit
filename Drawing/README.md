@@ -7,7 +7,7 @@ ja käännös on nyt paras mahdollinen. Mahdollisesti Mint 21.2 ei saa käännö
 itse drawing.mo koneellesi. Uuden version käännös löytyy kansiosta Drawing1.0.2
 
 Linux Mint 21 ja 21.1 käyttää drawing (piirtäminen) versiota 0.8.5 kuten debian 11 ja Ubuntu Jammy.
-Katso kansioon Drawing0.8.5
+Nämä kaksi tiedostoa löytyy juuresta (en tehnyt sille omaa kansiota).
 
 
 Ohjeet
