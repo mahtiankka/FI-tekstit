@@ -1,20 +1,23 @@
-# VLC 3.0.12
+# VLC 3.0.16
 
 Käännös valmiina käyttöönne, olkaa hyvä.
 
-Pakattu kansio sisältää kaksi tiedostoa.
+Kansio sisältää kaksi vlc mediasoittimen tiedostoa.
 
-Valmiin (vlc-30_fi.po) suomikäännöksen VLC ohjelmasta. Voit editoida ja muuttaa tiedostoa/käännöstä poedit ohjelmalla. 
+Suomenkielinen vlc_fi.po VLC ohjelmasta. Voit editoida ja muuttaa tiedostoa/käännöstä poedit ohjelmalla jos haluat. 
 
-Valmis (vlc.mo) muotoon käännetty kielipaketti, jonka kopioidaan kohteeseen;
+Valmis vlc.mo konekieliseen muotoon käännetty kielipaketti, jonka kopioidaan tietokoneelle kohteeseen;
 /usr/share/locale/fi/LC_MESSAGES/vlc.mo
 
 Käynnistä VLC uudelleen ja ympäristö on suomenkielinen.
 
-Huomaa! Asenna ensin VLC mediasoitin ja kopioi sen jälkeen vlc.mo kielipaketti vanhan päälle. Ohjelman asennus korvaa kielipaketin omallaan noin vuoden vanhalla kielipaketilla, joten asenna ohjelma ensin.
+Huomaa! Asenna ensin VLC mediasoitin ja kopioi vasta sen jälkeen vlc.mo kielipaketti vanhan päälle. Ohjelman asennus muuten korvaa kopioidun kielipaketin vanhalla versiolla.
 
-VLC versiolla 3.0.9.2 testattu toivaksi Linux Mint 20.1 Cinnamon.
-Päivä 4.3.2021
+VLC versio 3.0.16 on testattu KDE Plasma 5 ja 6 versiossa. Käännös on hyödyllinen LTS käyttöjärjestelmissä kuten Debian, Linux Mint, Ubuntu jne. jotka eivät päivitä ohjelma-arkistoa kovin usein. Käännös toimii kuitenkin niissä hyvin.
+
+Suurimmat muutokset 23.2 2024: Käyttöliittymä on oikoluettu. Tietyt sanat on muutettu sujuvuuden parantamiseksi. Ääni sanan tilalla käytetään audiota koska sana sound aiheutti sekannusta siitä mitä haluttiin sanoa. Bitrate on nyt siirtonopeus ja paljon pieniä muita muutoksia.
+
+Valokuvat alla ovat vielä vanhasta käännöksestä päivältä 4.3 2021. Uudet kuvat liitetään myöhemmin.
 
 Valmistajan kotisivu:
 https://www.videolan.org/
